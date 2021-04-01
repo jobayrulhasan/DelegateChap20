@@ -1,0 +1,7 @@
+D:\C#Console\chap20Delegate\bin\Debug\chap20Delegate.exe.config
+D:\C#Console\chap20Delegate\bin\Debug\chap20Delegate.exe
+D:\C#Console\chap20Delegate\bin\Debug\chap20Delegate.pdb
+D:\C#Console\chap20Delegate\obj\Debug\chap20Delegate.csprojAssemblyReference.cache
+D:\C#Console\chap20Delegate\obj\Debug\chap20Delegate.csproj.CoreCompileInputs.cache
+D:\C#Console\chap20Delegate\obj\Debug\chap20Delegate.exe
+D:\C#Console\chap20Delegate\obj\Debug\chap20Delegate.pdb
